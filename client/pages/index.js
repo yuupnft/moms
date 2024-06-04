@@ -37,7 +37,7 @@ export default function Home() {
         <div className={styles.section_container}></div>
         <div className={styles.section_container}>
           <section className={`${styles.infos} ${styles.desc} ${rubik.className}`}>
-            <h1>mom's slipper</h1>
+            <h1>mom&apos;s slipper</h1>
             <p>
               <em>noun:</em> footwear designed to punish those who sell on a whim.<br/>
             </p>
