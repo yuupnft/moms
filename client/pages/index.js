@@ -60,8 +60,8 @@ export default function Home() {
                 </a>
               </div>
               <div className={`${styles.nav_item}`}>
-                <a href="https://www.dextools.io/app/en/solana/pair-explorer/8D5DzmjZbEnrXywgWxH8wyAmxN8X6hr7yHC3Ch1XVRXK">
-                  <img src="/dextools.svg" alt="Mom's Slipper - DexTools"/>
+                <a href="https://dexscreener.com/solana/8d5dzmjzbenrxywgwxh8wyamxn8x6hr7yhc3ch1xvrxk">
+                  <img src="/dexscreener.svg" alt="Mom's Slipper - Dexscreener"/>
                 </a>
               </div>
             </div>
